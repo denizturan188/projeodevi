@@ -44,6 +44,6 @@ int main(int argc, char *argv[]) {
 	scanf("%d", &a);
 	
 	}while(a==1);
-	
+	asdasdasdasdasd;
 	return 0;
 }
