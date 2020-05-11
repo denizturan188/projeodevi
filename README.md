@@ -46,4 +46,4 @@ int main(int argc, char *argv[]) {
 	}while(a==1);
 	
 	return 0;
-}
+}sad
