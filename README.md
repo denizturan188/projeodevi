@@ -1,0 +1,2 @@
+# projeodevi
+Banka Otomasyonu
